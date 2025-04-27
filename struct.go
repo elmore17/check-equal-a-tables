@@ -9,8 +9,8 @@ type Config struct {
 }
 
 type Params struct {
-	FirstTable  string `json:"first_table"`
-	SecondTable string `json:"second_table"`
+	FHD string `json:"FHD"`
+	KHD string `json:"KHD"`
 }
 
 type AppConfig struct {

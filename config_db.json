@@ -7,7 +7,7 @@
     "database": "CheckTables"
   },
   "params": {
-    "first_table": "test1",
-    "second_table": "test2"
+    "FHD": "test1",
+    "KHD": "test2"
   }
 }
